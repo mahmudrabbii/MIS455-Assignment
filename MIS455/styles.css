@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; 
+    color: #333; 
+}
+
+.navbar {
+    background-color: #000204; 
+}
+
+.navbar-brand {
+    color: white; 
+}
+
+.search-bar input {
+    border-radius: 0; 
+}
+
+.search-bar button {
+    background-color: #000000; 
+    border: none; 
+    color: white; 
+}
+
+.search-bar button:hover {
+    background-color: #000000; 
+}
+
+.card {
+    border: none; 
+    background-color: #ffffff; 
+}
+
+.card:hover {
+    transform: scale(1.05); 
+}
+
+.card-title {
+    color: #007bff; 
+}
+
+.card-text {
+    color: #555; 
+}
+
+.innerDivStyle {
+    border: 1px solid #ddd; 
+    padding: 15px; 
+    margin-bottom: 20px; 
+    border-radius: 5px; 
+    background-color: #f9f9f9; 
+}
+
+.innerDivStyle h3 {
+    color: #333; 
+}
+
+.innerDivStyle img {
+    border-radius: 5px; 
+}
+
+footer {
+    background-color: #007bff; 
+    color: white; 
+}
